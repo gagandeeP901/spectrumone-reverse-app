@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spectrum One Reverse</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_calculator">Calculator</string>
+    <string name="nav_rates">Rates</string>
+    <string name="nav_call">Call</string>
+    <string name="offline_msg">Internet connection nahi hai. Please connect karke dubara try karein.</string>
+</resources>
